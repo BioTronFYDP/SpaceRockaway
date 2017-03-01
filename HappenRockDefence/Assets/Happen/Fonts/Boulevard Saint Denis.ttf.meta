@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e135369eb4bc1564191911f68ba1f44d
+timeCreated: 1488258224
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Boulevard Saint Denis
+  fontNames:
+  - Boulevard Saint Denis
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

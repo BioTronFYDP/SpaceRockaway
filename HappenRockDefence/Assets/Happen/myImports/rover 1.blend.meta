@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 8b38daeef61e7774eaf004c1effdda82
+timeCreated: 1486345173
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RoverAntenna
+    100004: RoverArmConnector
+    100006: RoverArmDrill
+    100008: RoverArmLower
+    100010: RoverArmUpper
+    100012: RoverBackWheels_L
+    100014: RoverBackWheels_R
+    100016: RoverHead
+    100018: RoverHeadCameras
+    100020: RoverSensor
+    100022: RoverSolarPanels
+    100024: RoverWheelBack_L
+    100026: RoverWheelBack_R
+    100028: RoverWheelFront_L
+    100030: RoverWheelFront_R
+    100032: RoverWheelMiddle_L
+    100034: RoverWheelMiddle_R
+    100036: RoverWheels_L
+    100038: RoverWheels_R
+    400000: //RootNode
+    400002: RoverAntenna
+    400004: RoverArmConnector
+    400006: RoverArmDrill
+    400008: RoverArmLower
+    400010: RoverArmUpper
+    400012: RoverBackWheels_L
+    400014: RoverBackWheels_R
+    400016: RoverHead
+    400018: RoverHeadCameras
+    400020: RoverSensor
+    400022: RoverSolarPanels
+    400024: RoverWheelBack_L
+    400026: RoverWheelBack_R
+    400028: RoverWheelFront_L
+    400030: RoverWheelFront_R
+    400032: RoverWheelMiddle_L
+    400034: RoverWheelMiddle_R
+    400036: RoverWheels_L
+    400038: RoverWheels_R
+    2300000: //RootNode
+    2300002: RoverAntenna
+    2300004: RoverArmConnector
+    2300006: RoverArmDrill
+    2300008: RoverArmLower
+    2300010: RoverArmUpper
+    2300012: RoverBackWheels_L
+    2300014: RoverBackWheels_R
+    2300016: RoverHead
+    2300018: RoverHeadCameras
+    2300020: RoverSensor
+    2300022: RoverSolarPanels
+    2300024: RoverWheelBack_L
+    2300026: RoverWheelBack_R
+    2300028: RoverWheelFront_L
+    2300030: RoverWheelFront_R
+    2300032: RoverWheelMiddle_L
+    2300034: RoverWheelMiddle_R
+    2300036: RoverWheels_L
+    2300038: RoverWheels_R
+    3300000: //RootNode
+    3300002: RoverAntenna
+    3300004: RoverArmConnector
+    3300006: RoverArmDrill
+    3300008: RoverArmLower
+    3300010: RoverArmUpper
+    3300012: RoverBackWheels_L
+    3300014: RoverBackWheels_R
+    3300016: RoverHead
+    3300018: RoverHeadCameras
+    3300020: RoverSensor
+    3300022: RoverSolarPanels
+    3300024: RoverWheelBack_L
+    3300026: RoverWheelBack_R
+    3300028: RoverWheelFront_L
+    3300030: RoverWheelFront_R
+    3300032: RoverWheelMiddle_L
+    3300034: RoverWheelMiddle_R
+    3300036: RoverWheels_L
+    3300038: RoverWheels_R
+    4300000: RoverBody
+    4300002: RoverArmConnector
+    4300004: RoverArmLower
+    4300006: RoverArmUpper
+    4300008: RoverArmDrill
+    4300010: RoverWheels_L
+    4300012: RoverWheelFront_L
+    4300014: RoverBackWheels_L
+    4300016: RoverWheelBack_L
+    4300018: RoverWheelMiddle_L
+    4300020: RoverSensor
+    4300022: RoverAntenna
+    4300024: RoverHead
+    4300026: RoverHeadCameras
+    4300028: RoverWheels_R
+    4300030: RoverWheelFront_R
+    4300032: RoverBackWheels_R
+    4300034: RoverWheelMiddle_R
+    4300036: RoverWheelBack_R
+    4300038: RoverSolarPanels
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
